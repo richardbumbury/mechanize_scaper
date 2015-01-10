@@ -1,0 +1,1 @@
+A simple web scraping script. To run change the username and password then type "ruby get_tapas.rb" into your terminal.
